@@ -1,66 +1,27 @@
 <h1 align="center">
-  Hi there 👋, I'm Sora Sawabe!
+  Hi there, I'm Sora Sawabe🦄
+
 </h1>
 <h3 align="center">A Front-end Engineer focused on UX/UI experiences.</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sor03-JP&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏢 **University:** Toyo University, 3rd year<br>
-  <sub>Faculty of Information Networking for Innovation and Design (INIAD)</sub>
+- 🏢 **University:** Faculty of Information Networking for Innovation and Design (INIAD), Toyo University, 3rd year
 - 📚 **Major:** UX/UI Design & Business
 - 🎯 **Aspiring to be:** A Front-end Engineer who creates intuitive and engaging user experiences.
-- 🇯🇵 **From:** Japan
+- 🌎 **From:** Japan
 
 ---
 
 ### 🛠️ My Skills & Tools
 
 #### Languages & Frameworks
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://remix.run/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/remix/remix-original-wordmark.svg" alt="remix" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
+<img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,py,django,nodejs,react,nextjs,remix,tailwind" />
 
 #### BaaS / Tools
-<p align="left">
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
+<img alt="my skills / Baas,Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=supabase,vercel,docker,git,github,figma" />
 
 ---
 
@@ -96,7 +57,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sor03-JP&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sora's github stats" />
-  <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sor03-JP&layout=compact&locale=en&theme=tokyonight" alt="sora's top languages" />
 </p>
 
