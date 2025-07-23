@@ -32,7 +32,7 @@
     <strong>📍 Notepia - Collaborative Mapping Service</strong>
   </summary>
   <br>
-  ![Image](https://github.com/user-attachments/assets/eb7827ef-4c1e-406e-b629-1012e48f3f10)
+
   <p>
     A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GIZYUKU-CAMP 2025 Vol.1 / GIZYUKU-HAKU 2025 Vol.2).
     <br><br>
