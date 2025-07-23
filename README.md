@@ -18,10 +18,10 @@
 ### 🛠️ My Skills & Tools
 
 #### Languages & Frameworks
-<img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=8&i=html,css,js,ts,py,django,nodejs,react,nextjs,remix,tailwind" />
+<img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,ts,py,django,nodejs,react,nextjs,remix,tailwind" />
 
 #### BaaS / Tools
-<img alt="my skills / Baas,Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=supabase,vercel,docker,git,github,figma" />
+<img alt="my skills / Baas,Tools" src="https://skillicons.dev/icons?theme=dark&perline=6&i=supabase,vercel,docker,git,github,figma" />
 
 ---
 
@@ -32,14 +32,14 @@
     <strong>📍 Notepia - Collaborative Mapping Service</strong>
   </summary>
   <br>
-
+<img alt="Notepia_portfolio" src="images/Notepia_mockUp2.jpg" />
   <p>
-    A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GIZYUKU-CAMP 2025 Vol.1 / GIZYUKU-HAKU 2025 Vol.2).
+    A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GIIKU-CAMP 2025 Vol.1 / GIIKU-HAKU 2025 Vol.2).
     <br><br>
     🔗 **Service URL:** <a href="https://notepia.cyberhub.jp/" target="_blank">https://notepia.cyberhub.jp/</a>
   </p>
 
-  **My Responsibilities:**
+  **👤My Responsibilities:**
   <ul>
     <li>Created wireframes for the user interface.</li>
     <li>Improved UI based on user feedback (e.g., repositioned buttons for better accessibility, added a compass for orientation).</li>
@@ -48,9 +48,9 @@
     <li>Ensured the application was fully responsive.</li>
   </ul>
 
-  **Tech Stack:**
-  <p>Remix.js, React, TypeScript, Tailwind CSS, Shadcn/ui, Mapbox API, Docker, and more.</p>
-</details>
+  **🛠️Tech Stack:**
+<br><br>
+  <img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ts,react,remix,tailwind,vite,prisma,postgres,docker,github,figma" />
 
 ---
 
