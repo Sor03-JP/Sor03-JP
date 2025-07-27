@@ -2,7 +2,7 @@
   Hi there, I'm Sora Sawabe🦄
 
 </h1>
-<h3 align="center">A Front-end Engineer focused on UX/UI experiences.</h3>
+<h3 align="center">A Front-end Engineer focused on UX/UI.</h3>
 
 ---
 
@@ -35,11 +35,12 @@
 <img alt="Notepia_portfolio" src="images/Notepia_mockUp2.jpg" />
   <p>
     A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GIIKU-CAMP 2025 Vol.1 / GIIKU-HAKU 2025 Vol.2).
-    <br><br>
-    🔗 **Service URL:** <a href="https://notepia.cyberhub.jp/" target="_blank">https://notepia.cyberhub.jp/</a>
   </p>
-
-  **👤My Responsibilities:**
+  
+  <strong>🔗Service URL :  </strong>   <a href="https://notepia.cyberhub.jp/" target="_blank">https://notepia.cyberhub.jp/</a>
+  <br>
+ 
+  <strong>👤My Responsibilities :</strong>
   <ul>
     <li>Created wireframes for the user interface.</li>
     <li>Improved UI based on user feedback (e.g., repositioned buttons for better accessibility, added a compass for orientation).</li>
@@ -48,7 +49,7 @@
     <li>Ensured the application was fully responsive.</li>
   </ul>
 
-  **🛠️Tech Stack:**
+  <strong>🛠️Tech Stack : </strong>
 <br><br>
   <img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ts,react,remix,tailwind,vite,prisma,postgres,docker,github,figma" />
 
