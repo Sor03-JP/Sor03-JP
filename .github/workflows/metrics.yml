@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics - Isometric Commit Calendar
+name: GitHub Metrics
 on:
   # スケジュール実行（6時間ごとに実行）
   schedule: [{cron: "0 */6 * * *"}]
@@ -10,7 +10,7 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions: # <-- このブロックを追加します
+    permissions:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
@@ -18,10 +18,12 @@ jobs:
           # GitHubトークン
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Isometric Commit Calendarのみを生成する設定
-          base: "" 
+          # 表示するプラグインを有効化
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # 1年分を表示する
+          plugin_languages: yes
 
-          # 出力するファイル名
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          # isocalendarプラグインのオプション
+          plugin_isocalendar_duration: half-year # 表示期間を半年に変更
+
+          # languagesプラグインのオプション（任意でカスタマイズ可能）
+          plugin_languages_limit: 8 # 表示する言語数を8に制限
