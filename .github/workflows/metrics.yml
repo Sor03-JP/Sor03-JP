@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics - Isometric Commit Calendar
 on:
-  # 6時間ごとにスケジュール実行
+  # スケジュール実行（6時間ごとに実行）
   schedule: [{cron: "0 */6 * * *"}]
   # 手動でワークフローを実行できるようにする
   workflow_dispatch:
@@ -10,6 +10,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions: # <-- このブロックを追加します
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
