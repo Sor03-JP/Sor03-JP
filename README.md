@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there, I'm Sora Sawabe🦄
-
 </h1>
 <h3 align="center">A Front-end Engineer focused on UX/UI.</h3>
 
@@ -57,18 +56,10 @@
 ---
 
 ### 📊 My GitHub Stats
-<img align="left" src="github-metrics.svg" alt="Isometric Commit Calendar">
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sor03-JP&show_icons=true&locale=en&theme=tokyonight" alt="sora's github stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sor03-JP&layout=compact&locale=en&theme=tokyonight" alt="sora's top languages" />
+  <a href="https://github.com/lowlighter/metrics">
+    <img height="250px" src="github-metrics.svg" alt="Isometric Commit Calendar">
+  </a><a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=Sor03-JP&rank_icon=github&show_icons=true&locale=en&theme=github_dark" alt="sora's github stats" />
+  </a>
 </p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://x.com/Sora27_eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sora27_eng" height="30" width="40" /></a>
-  <a href="https://zenn.dev/sora27_eng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/zenn.svg" alt="sora27_eng" height="30" width="40" /></a>
-  </p>
