@@ -57,6 +57,7 @@
 ---
 
 ### 📊 My GitHub Stats
+<img align="left" src="github-metrics.svg" alt="Isometric Commit Calendar">
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sor03-JP&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="sora's github stats" />
