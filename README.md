@@ -56,7 +56,7 @@
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
+<p align="left">
   <a href="https://github.com/lowlighter/metrics">
     <img height="250px" src="github-metrics.svg" alt="Isometric Commit Calendar">
   </a><a href="https://github.com/anuraghazra/github-readme-stats">
