@@ -52,6 +52,7 @@
   <strong>🛠️Tech Stack : </strong>
 <br><br>
   <img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=6&i=ts,react,remix,tailwind,vite,prisma,postgres,docker,github,figma" />
+</details>
 
 ---
 
