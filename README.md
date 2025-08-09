@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **University:** Faculty of Information Networking for Innovation and Design (INIAD), Toyo University, 3rd year
+- 🏢 **University:** Faculty of Information Networking for Innovation and Design ([INIAD](https://www.iniad.org/)), Toyo University, 3rd year
 - 📚 **Major:** UX/UI Design & Business
 - 🎯 **Aspiring to be:** A Front-end Engineer who creates intuitive and engaging user experiences.
 - 🌎 **From:** Japan
