@@ -33,7 +33,7 @@
   <br>
 <img alt="Notepia_portfolio" src="images/Notepia_mockUp2.jpg" />
   <p>
-    A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GIIKU-CAMP 2025 Vol.1 / GIIKU-HAKU 2025 Vol.2).
+    A web service that allows users to leave notes on a map and share them within a group. Developed during a hackathon (GEEK-CAMP 2025 Vol.1 / GEEK-HAKU 2025 Vol.2).
   </p>
   
   <strong>🔗Service URL :  </strong>   <a href="https://notepia.cyberhub.jp/" target="_blank">https://notepia.cyberhub.jp/</a>
