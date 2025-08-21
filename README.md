@@ -20,7 +20,7 @@
 <img alt="my skills / Language,Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=6&i=html,css,js,ts,py,django,nodejs,react,nextjs,remix,tailwind" />
 
 #### BaaS / Tools
-<img alt="my skills / Baas,Tools" src="https://skillicons.dev/icons?theme=dark&perline=6&i=supabase,vercel,docker,git,github,figma" />
+<img alt="my skills / Baas,Tools" src="https://skillicons.dev/icons?theme=dark&perline=6&i=supabase,cloudflare,vercel,docker,git,github,figma" />
 
 ---
 
