@@ -38,7 +38,7 @@
     (GEEK-CAMP 2025 Vol.1 / GEEK-HAKU 2025 Vol.2).
   </p>
   
-  <strong>🔗Service URL :  </strong>   <a href="https://notepia.cyberhub.jp/" target="_blank">https://notepia.cyberhub.jp/</a>
+  <strong>🔗Service URL :  </strong>   <a href="https://notepia.iniad.org.uk" target="_blank">https://notepia.iniad.org.uk</a>
   <br>
  
   <strong>👤My Responsibilities :</strong>
