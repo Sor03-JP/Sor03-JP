@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Sora Sawabe🦄
+  Hi there, I'm Sora🦄
 </h1>
 <h3 align="center">A Front-end Engineer focused on UX/UI.</h3>
 
