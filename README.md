@@ -43,7 +43,7 @@
  
   <strong>👤My Responsibilities :</strong>
   <ul>
-    <li>Created wireframes for the user interface.</li>
+    <li>Created wireframes for the UI.</li>
     <li>Improved UI based on user feedback (e.g., repositioned buttons for better accessibility, added a compass for orientation).</li>
     <li>Designed day/night map styles using Mapbox Studio.</li>
     <li>Implemented a feature to automatically switch map styles based on local time.</li>
