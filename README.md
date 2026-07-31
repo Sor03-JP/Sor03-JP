@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, I'm Sora🦄
 </h1>
-<h3 align="center">A Front-end Engineer focused on UX/UI.</h3>
+<h3 align="center">A frontend engineer focused on UX/UI, accessibility, and product development.</h3>
 
 ---
 
@@ -9,7 +9,7 @@
 
 - 🏢 **University:** Faculty of Information Networking for Innovation and Design ([INIAD](https://www.iniad.org/)), Toyo University, 4th year
 - 📚 **Major:** Computer Science, UX/UI Design & Business
-- 🎯 **Aspiring to be:** A Front-end Engineer who creates intuitive and engaging user experiences.
+- 🎯 **Interested in:** Building intuitive, context-aware products that fit naturally into people's lives.
 - 🌎 **From:** Japan
 
 ---
@@ -45,7 +45,7 @@
   <ul>
     <li>Created wireframes for the UI.</li>
     <li>Improved UI based on user feedback (e.g., repositioned buttons for better accessibility, added a compass for orientation).</li>
-    <li>Designed day/night map styles using Mapbox Studio.</li>
+    <li>Designed dawn/day/dusk/night map styles using Mapbox Studio.</li>
     <li>Implemented a feature to automatically switch map styles based on local time.</li>
     <li>Ensured the application was fully responsive.</li>
   </ul>
