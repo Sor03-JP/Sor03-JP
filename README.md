@@ -60,11 +60,14 @@
 ### 📊 My GitHub Stats
 <p align="left">
   <a href="https://github.com/lowlighter/metrics">
-    <img height="250px" src="github-metrics.svg" alt="Isometric Commit Calendar">
+    <img
+      height="250px"
+      src="github-metrics.svg"
+      alt="Isometric Commit Calendar"
+    >
   </a>
   <br>
-  <p align="left"> 
-  <img alt="Top Langs" height="180px" src="https://github-readme-stats-clone-jgfe.vercel.app/api/top-langs/?username=Sor03-JP&theme=github_dark&count_private=true" />
-  <img alt="github stats" height="180px" src="https://github-readme-stats-clone-jgfe.vercel.app/api?username=Sor03-JP&layout=compact&theme=github_dark&count_private=true" />
+  <p align="left">
+    <img alt="GitHub Stats" height="180px" src="https://github-stats-extended-frontend-khaki-chi.vercel.app/api?username=Sor03-JP&theme=github_dark" />
   </p>
 </p>
