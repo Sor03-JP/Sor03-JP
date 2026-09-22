@@ -1,11 +1,11 @@
 name: GitHub Metrics
 on:
-  # 1日ごと
-  schedule: [{cron: "0 0 * * *"}]
-  # 手動でワークフローを実行できるようにする
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  # (任意) master/mainブランチにプッシュされた時も実行
-  push: {branches: ["master", "main"]}
+  push:
+    branches:
+      - main
   
 jobs:
   github-metrics:
@@ -17,6 +17,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
-          
+          config_timezone: Asia/Tokyo
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
